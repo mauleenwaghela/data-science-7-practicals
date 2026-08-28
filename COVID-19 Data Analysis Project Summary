@@ -1,0 +1,45 @@
+COVID-19 Data Analysis Project Summary
+Project Title
+
+COVID-19 Data Analysis Using Python
+
+Summary
+
+This project analyzes the global COVID-19 pandemic using real-world data from the Our World in Data dataset. 
+The aim is to understand how COVID-19 spread over time by examining daily cases, total cases, deaths, 
+and vaccination trends, with a primary focus on India and comparisons with other countries. 
+GitHub
++1
+
+Using Python, Pandas, Matplotlib, and Seaborn in Google Colab, the data is cleaned, processed, and visualized through charts. 
+The project demonstrates basic data science techniques such as data collection, data cleaning, exploratory data analysis (EDA), and data visualization.
+
+
+  
+Objectives
+
+Analyze COVID-19 cases and deaths in India.
+
+Compare total cases across major countries.
+
+Visualize daily and cumulative trends.
+
+Study vaccination progress using real data.
+
+Generate meaningful insights from the dataset.
+
+
+
+
+  
+Technologies Used
+
+Python
+
+Google Colab
+
+Pandas
+
+Matplotlib
+
+Seaborn
